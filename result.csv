@@ -1,0 +1,12 @@
+mes_Aplicacao,paciente_idade,paciente_enumSexoBiologico,paciente_racaCor_valor,estabelecimento_uf,vacina_dataAplicacao,estabelecimento_noFantasia,vacina_descricao_dose
+1,44,M,BRANCA,PR,1,1,1
+2,82,F,SEM INFORMACAO,RJ,1,1,1
+3,30,F,PARDA,AL,1,1,1
+3,59,M,PRETA,DF,1,1,1
+3,73,F,AMARELA,GO ,1,1,1
+3,77,F,PARDA,GO ,3,3,3
+3,77,F,PARDA,PA,1,1,1
+4,54,F,SEM INFORMACAO,RJ,1,1,1
+4,61,F,BRANCA,SP,1,1,1
+4,75,M,BRANCA,SP,1,1,1
+4,77,M,BRANCA,MG,1,1,1
